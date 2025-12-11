@@ -32,18 +32,6 @@ Efficient data loading, environment setup, and comprehensive monitoring support.
 - Python 3.x
 - Required Python packages (see `requirements.txt`)
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/pcap_alteration_tool.git
-
-# Navigate to the project directory
-cd pcap_alteration_tool
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ### Usage
 ```python
 # Basic usage example
